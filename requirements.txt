@@ -1,6 +1,5 @@
 jupyterlab
 pandas
 pyarrow
-matplotlib
-seaborn
 loguru
+plotly.express
