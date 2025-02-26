@@ -28,3 +28,7 @@ To run in Jupyter notebook, click Kernel (top right) > Python environments > vir
 Icon in top right should look like the screenshot below:
 
 ![.venv (Python 3.13.0)](image-1.png)
+
+**Viewing in GitHub Dev**
+
+Link to view in GitHub Dev: [HERE](https://github.dev/crsellinger/datafun-06-eda/blob/main/cselling_eda.ipynb)
